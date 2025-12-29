@@ -1,0 +1,8 @@
+{
+  "name": "Tamasha AI - Premium Sports & Entertainment",
+  "description": "A high-fidelity clone of the Tamasha sports app featuring AI-powered live match grounding, personalized recommendations, and a sleek dark-mode interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
